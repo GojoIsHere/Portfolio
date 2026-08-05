@@ -12,7 +12,6 @@ function App() {
   return (
     <>
       <Navbar />
-
       <main>
         <Hero />
         <About />
@@ -21,7 +20,6 @@ function App() {
         <Experience />
         <Contact />
       </main>
-
       <Footer />
     </>
   );
